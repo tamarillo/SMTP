@@ -12,3 +12,6 @@
 # IntelliJ
 out/
 /vendor/
+
+# Test files
+test.php
