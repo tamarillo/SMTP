@@ -1,0 +1,10 @@
+{
+    "name": "tamarillo/smtp",
+    "authors": [
+        {
+            "name": "Nobert Fox",
+            "email": "nfox@dengophp.de"
+        }
+    ],
+    "require": {}
+}
