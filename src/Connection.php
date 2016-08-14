@@ -1,13 +1,14 @@
-<?php namespace Smtp;
+<?php 
+
+namespace Tamarillo\Smtp;
 
 /**
  * Class SmtpConnection
  *
- * @author tmaxham
- * @generated 23.02.15
- * @version 23.02.15
+ * @author Tobias Maxham <git2016@maxham.de>
  */
-class Connection {
+class Connection
+{
 
 	private $parsedURL, $host, $user, $pass, $conn, $path;
 
