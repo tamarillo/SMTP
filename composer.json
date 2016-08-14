@@ -2,6 +2,10 @@
     "name": "tamarillo/smtp",
     "authors": [
         {
+            "name": "Tobias Maxham",
+            "email": "git2016@maxham.de"
+        },
+        {
             "name": "Nobert Fox",
             "email": "nfox@dengophp.de"
         }
