@@ -1,13 +1,14 @@
-<?php namespace Smtp;
+<?php 
+
+namespace Smtp;
 
 /**
  * Class Message
  *
- * @author tmaxham
- * @generated 23.02.15
- * @version 23.02.15
+ * @author Tobias Maxham <git2016@maxham.de>
  */
-class Message {
+class Message
+{
 
 	private $conn, $data, $id;
 
